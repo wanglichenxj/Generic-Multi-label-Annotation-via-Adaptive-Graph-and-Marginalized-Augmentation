@@ -1,1 +1,1 @@
-# Generic-Multi-label-Annotation-via-Adaptive-Graph-and-Marginalized-Augmentation
+# Generic Multi label Annotation via Adaptive Graph and Marginalized Augmentation
